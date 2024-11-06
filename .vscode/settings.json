@@ -1,0 +1,36 @@
+{
+    "alias-resolver.type": "webpack",
+    "alias-resolver.accessPath": "",
+    "gitConfigUser.selectedProfile": "teste",
+    "emmet.showSuggestionsAsSnippets": true,
+    "editor.snippetSuggestions": "top",
+    "angular.components.standalone": true,
+    "angular.components.style": "css",
+    "angular.files.include": [
+        "ts"
+    ],
+    "angular.files.exclude": [
+        "**/node_modules/**",
+        "**/dist/**",
+        "**/out/**",
+        "**/build/**",
+        "**/.*/**"
+    ],
+    "angular.files.watch": [
+        "modules",
+        "components",
+        "services"
+    ],
+    "angular.files.showPath": true,
+    "angular-schematics.angularDisableProjectPathCheck": false,
+    "angular-schematics.angularForceClassGuardsAndResolvers": false,
+    "angular-schematics.angularForceClassInterceptor": false,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs":"active",
+    "bracket-pair-colorizer-2.colors": [
+        "Gold",
+        "Orchid",
+        "LightSkyBlue"
+    ],
+    
+}
