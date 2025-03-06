@@ -1,7 +1,7 @@
 {
     "alias-resolver.type": "webpack",
     "alias-resolver.accessPath": "",
-    "gitConfigUser.selectedProfile": "teste",
+    "gitConfigUser.selectedProfile": "Cleiton",
     "emmet.showSuggestionsAsSnippets": true,
     "editor.snippetSuggestions": "top",
     "angular.components.standalone": true,
@@ -32,5 +32,5 @@
         "Orchid",
         "LightSkyBlue"
     ],
-    
+
 }
